@@ -1,2 +1,2 @@
-# CISC3141-Project-1
-Contains all files relevant to the first project of 3141
+# FinTech Bank Home Page
+Contains all files relevant to the front-end implementation of a fictional technoloy orientated bank.
